@@ -24,7 +24,7 @@ Para acceder a un componente se requiere la pareja de coordenadas (i, j) que rep
 <figcaption><b></b></figcaption></figure>
 </div>
 
-En **Python** una matríz de *n* x *m* es un arreglo de *n* arreglos (filas) com *m* elementos cada uno.
+En **Python** una matriz de *n* x *m* es un arreglo de *n* arreglos (filas) com *m* elementos cada uno.
 
 **Ejemplo 2:** Representar la matriz **A**: 
 
@@ -122,7 +122,7 @@ if __name__ == "__main__":
 ```
 
 ## Reto 11
-Desarrolle la mayoría de ejercicios en clase, por cado punto resuelto en clase tendrá media décima en el examen 2 (creanme, las van a necesitar). Para cada punto cree un programa individual. Al finalizar suba todo a un repo y subalo al canal reto_11 en slack.
+Desarrolle la mayoría de ejercicios en clase, por cado punto resuelto en clase tendrá media décima en el examen 2 (créanme, las van a necesitar). Para cada punto cree un programa individual. Al finalizar suba todo a un repo y súbalo al canal reto_11 en slack.
 
 1. Desarrolle un programa que permita realizar la [suma/resta de matrices](https://es.wikipedia.org/wiki/Adici%C3%B3n_matricial). El programa debe validar las condiciones necesarias para ejecutar la operación.
 
@@ -135,5 +135,5 @@ Desarrolle la mayoría de ejercicios en clase, por cado punto resuelto en clase 
 5. Desarrollar un programa que sume los elementos de una fila dada de
 una matriz.
 
-**Nota:** Todos los puntos deben estar debidamente comentados y utilziar funciones para su desarrollo.
+**Nota:** Todos los puntos deben estar debidamente comentados y utilizar funciones para su desarrollo.
 
