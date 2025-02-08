@@ -90,7 +90,7 @@ for i in range(len(C)):
 **Ejemplo 7:** Dados el número de columnas y filas, generar una matriz de solo unos.
 
 ```python
-def imprimirMatriz(mat):
+def imprimir_matriz(mat):
   for i in range(len(mat)): print(mat[i])
 
 if __name__ == "__main__":
@@ -99,13 +99,13 @@ if __name__ == "__main__":
   ones = []
   for i in range(nFilas):
     ones.append([1]*nCols)
-  imprimirMatriz(ones)
+  imprimir_matriz(ones)
 ```
 
 **Ejemplo 8:** Dado el rango generar una [matriz identidad](https://es.wikipedia.org/wiki/Matriz_identidad) (matriz cuadrada con diagonal en unos).
 
 ```python
-def imprimirMatriz(mat):
+def imprimir_matriz(mat):
   for i in range(len(mat)): print(mat[i])
 
 if __name__ == "__main__":
@@ -118,10 +118,10 @@ if __name__ == "__main__":
       else: filas.append(0)
     unit.append(filas)
     filas = []
-  imprimirMatriz(unit)
+  imprimir_matriz(unit)
 ```
 
-## Reto 11
+## Reto 10
 Desarrolle la mayoría de ejercicios en clase, por cado punto resuelto en clase tendrá media décima en el examen 2 (créanme, las van a necesitar). Para cada punto cree un programa individual. Al finalizar suba todo a un repo y súbalo al canal reto_11 en slack.
 
 1. Desarrolle un programa que permita realizar la [suma/resta de matrices](https://es.wikipedia.org/wiki/Adici%C3%B3n_matricial). El programa debe validar las condiciones necesarias para ejecutar la operación.
